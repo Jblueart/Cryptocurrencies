@@ -15,7 +15,8 @@ Clustering CryptoCurrencies with K-Means
 ![image](https://user-images.githubusercontent.com/104408782/200032558-b9fe002f-1e6d-4b9e-9a9a-68088371fc9d.png)
 
 total coins mined and total coin supply 
-![image](https://user-images.githubusercontent.com/104408782/200032699-bb762829-061f-480b-af5c-443f0432dbfd.png)
+![image](https://user-images.githubusercontent.com/104408782/200346496-94bcc09d-06ae-4d8b-b1c6-6790f240bcb7.png)
+
 
 
 Clustering allows us to generalize and make assesments about data, lumping it together with similar sets so that we can compare and contrast.
